@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+Aplikasi Rental Mobil Code Igniter
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
