@@ -1,3 +1,4 @@
+![rental_mobil](https://user-images.githubusercontent.com/75848911/157881621-1d7dd5ae-f805-4032-8fc0-cf4b84a4e5bf.JPG)
 # CI_RentalMobil
 Website Rental Mobil Inova Car adalah website penyedia jasa untuk user melakukan rental dimana di dalamnya terdapat fitur role akses antara user dan admin user juga dapat melihat dan memilih mobil yang tersedia, melakukan penglihataan detail mobilnya serta melakukan pembayaran yang dimana nantinya user akan mengirimkan bukti pembayaran dan menunggu konfirmasi dari bagian pengelolahaan adminnya.
 
